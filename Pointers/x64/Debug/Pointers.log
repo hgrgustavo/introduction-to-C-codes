@@ -1,0 +1,10 @@
+﻿  code8.cpp
+code1.obj : error LNK2005: main já definida no code.obj
+code2.obj : error LNK2005: main já definida no code.obj
+code3.obj : error LNK2005: main já definida no code.obj
+code4.obj : error LNK2005: main já definida no code.obj
+code5.obj : error LNK2005: main já definida no code.obj
+code6.obj : error LNK2005: main já definida no code.obj
+code7.obj : error LNK2005: main já definida no code.obj
+code8.obj : error LNK2005: main já definida no code.obj
+E:\First Steps with C\Pointers\x64\Debug\Pointers.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos

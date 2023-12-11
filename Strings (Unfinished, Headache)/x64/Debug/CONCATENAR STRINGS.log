@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+D:\C-C++ Projects\CONCATENAR STRINGS\Origem.cpp(4,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+D:\C-C++ Projects\CONCATENAR STRINGS\Origem.cpp(14,10): warning C4477: 'scanf_s': a cadeia de formato '%u' requer um argumento do tipo 'unsigned int *', mas um argumento variadic 1 tem o tipo 'size_t'
+D:\C-C++ Projects\CONCATENAR STRINGS\Origem.cpp(14,31): warning C4474: 'scanf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+D:\C-C++ Projects\CONCATENAR STRINGS\Origem.cpp(14,31): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+  CONCATENAR STRINGS.vcxproj -> D:\C-C++ Projects\CONCATENAR STRINGS\x64\Debug\CONCATENAR STRINGS.exe
