@@ -1,0 +1,7 @@
+﻿  code.cpp
+D:\First Steps with C\Vector's Sum\code.cpp(29,7): error C2065: 'Tamanho': identificador não declarado
+D:\First Steps with C\Vector's Sum\code.cpp(36,17): error C2065: 'Tamanho': identificador não declarado
+D:\First Steps with C\Vector's Sum\code.cpp(36,49): error C2065: 'Tamanho': identificador não declarado
+D:\First Steps with C\Vector's Sum\code.cpp(36,32): error C2660: 'SomaVetor': função não recebe 1 argumentos
+D:\First Steps with C\Vector's Sum\code.cpp(27,6): message : consulte a declaração de 'SomaVetor'
+D:\First Steps with C\Vector's Sum\code.cpp(36,32): message : ao tentar corresponder a lista de argumentos '(int [5])'
