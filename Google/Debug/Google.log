@@ -1,0 +1,17 @@
+﻿  Origem.cpp
+E:\C-C++ Projects\Google\Origem.cpp(3,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+E:\C-C++ Projects\Google\Origem.cpp(20,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+E:\C-C++ Projects\Google\Origem.cpp(20,11): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+E:\C-C++ Projects\Google\Origem.cpp(20,11): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+E:\C-C++ Projects\Google\Origem.cpp(20,11): message : esse argumento é usado como um tamanho do buffer
+E:\C-C++ Projects\Google\Origem.cpp(35,23): warning C4305: '=': truncamento de 'double' para 'float'
+E:\C-C++ Projects\Google\Origem.cpp(39,21): warning C4477: 'fprintf_s': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+E:\C-C++ Projects\Google\Origem.cpp(39,21): warning C4477: 'fprintf_s': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 2 tem o tipo 'int *'
+E:\C-C++ Projects\Google\Origem.cpp(39,21): warning C4477: 'fprintf_s': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 3 tem o tipo 'int *'
+E:\C-C++ Projects\Google\Origem.cpp(40,21): warning C4477: 'fprintf_s': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 1 tem o tipo 'float *'
+E:\C-C++ Projects\Google\Origem.cpp(40,21): warning C4477: 'fprintf_s': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 2 tem o tipo 'float *'
+E:\C-C++ Projects\Google\Origem.cpp(40,21): warning C4477: 'fprintf_s': a cadeia de formato '%f' requer um argumento do tipo 'double', mas um argumento variadic 3 tem o tipo 'float *'
+E:\C-C++ Projects\Google\Origem.cpp(41,21): warning C4477: 'fprintf_s': a cadeia de formato '%c' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'char *'
+E:\C-C++ Projects\Google\Origem.cpp(41,21): warning C4477: 'fprintf_s': a cadeia de formato '%c' requer um argumento do tipo 'int', mas um argumento variadic 2 tem o tipo 'char *'
+E:\C-C++ Projects\Google\Origem.cpp(41,21): warning C4477: 'fprintf_s': a cadeia de formato '%c' requer um argumento do tipo 'int', mas um argumento variadic 3 tem o tipo 'char *'
+  Google.vcxproj -> E:\C-C++ Projects\Google\Debug\Google.exe

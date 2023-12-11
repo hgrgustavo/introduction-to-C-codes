@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+E:\C-C++ Projects\Double\Origem.cpp(14,14): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+E:\C-C++ Projects\Double\Origem.cpp(20,11): warning C4477: 'scanf_s': a cadeia de formato '%f' requer um argumento do tipo 'float *', mas um argumento variadic 1 tem o tipo 'double'
+E:\C-C++ Projects\Double\Origem.cpp(13): warning C4715: 'dobro': nem todos os caminhos de controle retornam um valor
+  Double.vcxproj -> E:\C-C++ Projects\Double\Debug\Double.exe
