@@ -1,0 +1,46 @@
+﻿  Origem.cpp
+D:\C-C++ Projects\Associates\Origem.cpp(15,1): error C2059: erro de sintaxe: '}'
+D:\C-C++ Projects\Associates\Origem.cpp(15,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
+D:\C-C++ Projects\Associates\Origem.cpp(15,1): error C2238: token(s) inesperado(s) precedendo ';'
+D:\C-C++ Projects\Associates\Origem.cpp(17,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+D:\C-C++ Projects\Associates\Origem.cpp(21,3): error C2664: 'char *fgets(char *,int,FILE *)': não é possível converter um argumento 1 de 'string [2]' em 'char *'
+D:\C-C++ Projects\Associates\Origem.cpp(21,17): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(198,28): message : consulte a declaração de 'fgets'
+D:\C-C++ Projects\Associates\Origem.cpp(21,3): message : ao tentar corresponder a lista de argumentos '(string [2], int, FILE *)'
+D:\C-C++ Projects\Associates\Origem.cpp(23,11): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(23,31): warning C4474: 'scanf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+D:\C-C++ Projects\Associates\Origem.cpp(23,31): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 3 foram fornecidos
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): error C2672: 'std::sort': nenhuma função sobrecarregada correspondente encontrada
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(8071,19): message : poderia ser 'void std::sort(const _RanIt,const _RanIt)'
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): message : 'void std::sort(const _RanIt,const _RanIt)': espera argumentos 2 - 3 fornecido
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\algorithm(8063,19): message : ou       'void std::sort(const _RanIt,const _RanIt,_Pr)'
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): message : 'void std::sort(const _RanIt,const _RanIt,_Pr)': o parâmetro modelo '_RanIt' é ambíguo
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): message : poderia ser 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): message : ou       'int *'
+D:\C-C++ Projects\Associates\Origem.cpp(24,8): message : 'void std::sort(const _RanIt,const _RanIt,_Pr)': não foi possível deduzir o argumento de modelo para 'const _RanIt' de 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(26,38): error C2065: 'userID': identificador não declarado
+D:\C-C++ Projects\Associates\Origem.cpp(26,49): error C2065: 'userID': identificador não declarado
+D:\C-C++ Projects\Associates\Origem.cpp(26,60): error C2065: 'userID': identificador não declarado
+D:\C-C++ Projects\Associates\Origem.cpp(26,71): error C2065: 'userID': identificador não declarado
+D:\C-C++ Projects\Associates\Origem.cpp(26,82): error C2065: 'userID': identificador não declarado
+D:\C-C++ Projects\Associates\Origem.cpp(26,12): warning C4473: 'printf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\C-C++ Projects\Associates\Origem.cpp(26,12): message : espaços reservados e seus parâmetros esperam 5 argumentos variadic, mas 0 foram fornecidos
+D:\C-C++ Projects\Associates\Origem.cpp(26,12): message : o argumento variadic 1 ausente é requerido pela cadeia de formato '%d'
+D:\C-C++ Projects\Associates\Origem.cpp(28,18): error C2039: ' address': não é um membro de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(6,8): message : consulte a declaração de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(30,26): error C2039: ' phone': não é um membro de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(6,8): message : consulte a declaração de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(30,11): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(30,37): warning C4474: 'scanf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+D:\C-C++ Projects\Associates\Origem.cpp(30,37): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+D:\C-C++ Projects\Associates\Origem.cpp(32,32): error C2039: ' day': não é um membro de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(6,8): message : consulte a declaração de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(32,49): error C2039: ' month': não é um membro de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(6,8): message : consulte a declaração de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(32,68): error C2039: ' year': não é um membro de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(6,8): message : consulte a declaração de 'associateData'
+D:\C-C++ Projects\Associates\Origem.cpp(32,11): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(32,11): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 2 tem o tipo 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(32,11): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 3 tem o tipo 'int'
+D:\C-C++ Projects\Associates\Origem.cpp(32,77): warning C4474: 'scanf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+D:\C-C++ Projects\Associates\Origem.cpp(32,77): message : espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 4 foram fornecidos
